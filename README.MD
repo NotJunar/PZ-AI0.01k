@@ -1,4 +1,3 @@
-Certainly! Here's a GitHub README.md for the projects we've discussed:
 
 # PZ-AI0.01k: AI Language Model Experiments
 
