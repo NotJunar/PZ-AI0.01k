@@ -39,5 +39,5 @@ To be or not to be, that is the question.
 """
 model.train(training_text)
 
-generated_text = model.generate(["the", "quick"], num_words=10)
+generated_text = model.generate(["the", "quick"], num_words=6045)
 print(generated_text)
